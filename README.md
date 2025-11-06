@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kinga Mastej
+# 👋 Hi, I'm Kinga
 🎓 PhD Researcher in Machine Learning for Materials Discovery · Imperial College London
 
 💡 Passionate about open, reproducible science and the development of machine-learning models that accelerate materials discovery
