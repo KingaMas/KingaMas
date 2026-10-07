@@ -19,18 +19,6 @@ My research interests include:
 ---
 
 
-### 🧰 Tools & Frameworks
-
-**Machine Learning:** PyTorch · Lightning · PyTorch Geometric · scikit-learn  
-**Atomistic Modelling:** ASE · MACE · Pymatgen · Materials Project API  
-**Automation & HPC:** Snakemake · Hydra · SLURM · W&B  
-**Software Engineering:** Git · GitHub Actions · pytest · Docker · Poetry  
-**Reproducibility:** Zenodo · Sphinx · Jupyter 
-
-
----
-
-
 ### 🌐 Links
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--5656--6646-green?logo=orcid)](https://orcid.org/my-orcid?orcid=0009-0006-5656-6646)
